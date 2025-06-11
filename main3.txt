@@ -1,2 +1,2 @@
-password=***REMOVED***
-password1=***REMOVED***
+password=phone.no
+password1=phone.no

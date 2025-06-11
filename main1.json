@@ -1,6 +1,6 @@
 {
-    "AWS_ACCESS_KEY_ID": "***REMOVED***",
-    "AWS_SECRET_ACCESS_KEY": "***REMOVED***",
-    "AWS_SESSION_TOKEN": "***REMOVED***:abcd1234xyz7890"
+    "AWS_ACCESS_KEY_ID": "config.id",
+    "AWS_SECRET_ACCESS_KEY": "config.key",
+    "AWS_SESSION_TOKEN": "config.s3"
 }
   
